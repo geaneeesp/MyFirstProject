@@ -1,7 +1,7 @@
 # MyFirstProject
 writing a grocery receipt into the text file 
 
-lab 16: creating grocery receipt
+# lab 16: creating grocery receipt
 The program will ask the user for an item name, price, and quantity, then calculate the total and write all details to a file named
 
 How to Run:
