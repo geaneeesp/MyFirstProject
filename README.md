@@ -28,3 +28,6 @@ geaneesp
 - bolded titles
 
 Edited by Pringledemon
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Pringledemon on GitHub
